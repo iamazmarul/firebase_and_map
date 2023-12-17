@@ -1,16 +1,9 @@
-# firebase_and_map
+# FireBase Match Score App
 
-A new Flutter project.
+FireBase Match Score App
 
-## Getting Started
+## Screen Short
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 1.png](screen_short%2FScreenshot%201.png)
+![Screenshot 2.png](screen_short%2FScreenshot%202.png)
